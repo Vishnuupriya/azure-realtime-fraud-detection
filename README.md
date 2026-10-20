@@ -301,9 +301,12 @@ Recommended screenshots:
 1. `01-event-hubs.png` — Event Hubs namespace and event hub.
 2. `02-bronze-ingestion.png` — successful Databricks streaming ingestion.
 3. `03-silver-transactions.png` — cleaned Silver transaction records.
+3. `03a-silver-transactions.png` — silver_query graph
 4. `04-gold-fraud-analytics.png` — Gold aggregation results.
 5. `05-power-bi-dashboard.png` — completed Power BI dashboard.
 6. `06-data-quality-alerts.png` — data quality results and alert candidates, if implemented.
+6. `06-fraud-alerts.png` — fraud alert.
+7. `07-resource-group.png` — folder that contains all azure resources.
 
 Embed the screenshots in this README using relative paths. For example:
 
