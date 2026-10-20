@@ -294,7 +294,7 @@ Streaming notebooks require explicit checkpoint locations to track processing pr
 
 ## Screenshots
 
-Store actual screenshots from your environment under `docs/screenshots/`.
+Store actual screenshots from your environment under `screenshots/`.
 
 Recommended screenshots:
 
@@ -307,11 +307,14 @@ Recommended screenshots:
 6. `06-data-quality-alerts.png` — data quality results and alert candidates, if implemented.
 6. `06-fraud-alerts.png` — fraud alert.
 7. `07-resource-group.png` — folder that contains all azure resources.
+8. `08-storage account.png` — azure datalake/deltalake.
+9. images 09,10,11,12 - bronze, silver and gold container and parquet, checkpoints, delta log 
+
 
 Embed the screenshots in this README using relative paths. For example:
 
 ```markdown
-![Power BI Fraud Analytics Dashboard](docs/screenshots/05-power-bi-dashboard.png)
+![Power BI Fraud Analytics Dashboard](screenshots/05-power-bi-dashboard.png)
 ```
 
 Only include screenshots that actually exist in the repository. Hide sensitive identifiers and credentials before uploading them.
